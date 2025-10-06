@@ -83,25 +83,6 @@ helping improve healthcare decision-making through **data-driven insights**.
 
 ---
 
-## 📁 Project Structure
-
-├── data/
-│ ├── vitamin_d_data.csv
-├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_eda.ipynb
-│ ├── 03_model_training.ipynb
-│ ├── 04_model_tuning.ipynb
-├── results/
-│ ├── model_performance.csv
-│ ├── confusion_matrix.png
-├── README.md
-└── requirements.txt
-
-
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository
@@ -129,10 +110,6 @@ jupyter notebook healthcare_analysis.ipynb
 * Deploy model as an interactive web app
 * Add explainable AI visualizations (e.g., SHAP)
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 
