@@ -1,5 +1,5 @@
 * **`Enhanced_Vitamin_D_Deficiency_Prediction.xlsx`** → dataset
-* **`healthcare_analysis.ipynb`** → your analysis and modeling notebook
+* **`healthcare_analysis.ipynb`** → analysis and modeling notebook
 
 # 🧠 Vitamin D Deficiency Prediction using Machine Learning
 
